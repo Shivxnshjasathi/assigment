@@ -1,5 +1,3 @@
-
-```markdown
 # Assigment - TV Show App
 
 All American is a Flutter-based mobile application that allows users to browse and discover TV shows. The app utilizes the TVMaze API to fetch and display information about various TV shows, including their images, titles, and summaries.
@@ -11,9 +9,9 @@ All American is a Flutter-based mobile application that allows users to browse a
 - **Show Details Screen**: Provides detailed information about a selected TV show, including its poster image and full description.
 - **Offline Support**: Users can download and cache TV show data for offline viewing.
 
-## Screenshots
+## Walkthrought 
 
-<img src="screenshot1.png" width="300"> <img src="screenshot2.png" width="300"> <img src="screenshot3.png" width="300">
+https://github.com/user-attachments/assets/761b2b04-f797-4d7c-8bf4-e95834b05eaa
 
 ## Getting Started
 
